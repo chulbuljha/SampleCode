@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T12:54:17.007Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="AWPbPsOgRn3XLuhaAmwS" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T12:54:41.134Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="y4iiYUuQcPo9W1iqD-0f" version="24.5.4" type="github">
   <diagram name="Page-1" id="-nh_xPQQfHSRBBNR71u0">
     <mxGraphModel dx="874" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="5-6kPBd7d1gziYA4j6xH-2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.route_53;fillColor=#F58536;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="280" y="85" width="40" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="5-6kPBd7d1gziYA4j6xH-3" value="Portal" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.company_portal" vertex="1" parent="1">
+          <mxGeometry x="450" y="112" width="50" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
